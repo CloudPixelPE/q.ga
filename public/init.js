@@ -66,7 +66,7 @@ function makekey(){
 			k = makekey();
 		}
 		
-         var v = "https://yourlss.herokuapp.com/";
+         var v = "https://adf.ly/";
 	v += k;
 	document.getElementById("created").style.display = "block";
   	document.getElementById('createdurl').value= v;
